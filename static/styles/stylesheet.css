@@ -1,0 +1,9 @@
+body {
+  display: flex;
+  flex-direction: column;
+
+}
+
+div {
+    border: solid black 1px;
+}
